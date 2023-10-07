@@ -1,5 +1,5 @@
 # Data-Analytics
-Google Data Analytics
+Google Data Analytics Professional
 
 - [Week1](https://github.com/Forestreee/Data-Analytics/wiki/231007#week1---introduction)
   - [Preview: Infographic (Index)](https://github.com/Forestreee/Data-Analytics/wiki/231007#preview-infographic)
