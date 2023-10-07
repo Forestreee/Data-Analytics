@@ -1,6 +1,7 @@
 # Data-Analytics
 Google Data Analytics Professional
 
+**Foundations: Data, Data, Everywhere**
 - [Week1](https://github.com/Forestreee/Data-Analytics/wiki/231007#week1---introduction)
   - [Preview: Infographic (Index)](https://github.com/Forestreee/Data-Analytics/wiki/231007#preview-infographic)
   - [Data Analysis](https://github.com/Forestreee/Data-Analytics/wiki/231007#data-analysis)
