@@ -24,4 +24,19 @@ Google Data Analytics Professional
   - [Data-driven decision-making](https://github.com/Forestreee/Data-Analytics/wiki/231008#data-driven-decision-making)
   - [Real-world Data examples](https://github.com/Forestreee/Data-Analytics/wiki/231008#real-world-data-magic)
 
-- [Week3]
+- [Week3](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#week3---the-world-of-data)
+  - [Learning Objectives](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#learning-objectives)
+  - [Data phases and tools](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#data-phases-and-tools)
+    
+  - [Data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#data-life-cycle)
+    - [Stages of the data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#stages-of-the-data-life-cycle)
+  - [Variations of the data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#variations-of-the-data-life-cycle)
+    - [Six stages to the data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#six-stages-to-the-data-life-cycle)
+   
+  - [Six phases of data analysis](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#six-phases-of-data-analysis)
+  - [The data analysis process and this program](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#the-data-analysis-process-and-this-program)
+  - [Example of the data process](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#example-of-the-data-process)
+  - [Learning Log: Organize your data in a table](https://docs.google.com/document/d/1gfln-c71mcNMp_IMmdUeCpupz2JpKtzCISpsWzM_TME/edit) : click
+  - [Exploring data analyst tools](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#exploring-data-analyst-tools)
+  - [Choosing the right tool for the job](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#choosing-the-right-tool-for-the-job)
+  - [Review the phases of data](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#review-the-phases-of-data)
