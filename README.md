@@ -26,13 +26,11 @@ Google Data Analytics Professional
 
 - [Week3](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#week3---the-world-of-data)
   - [Learning Objectives](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#learning-objectives)
-  - [Data phases and tools](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#data-phases-and-tools)
-    
-  - [Data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#data-life-cycle)
+  - [Data phases and tools](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#data-phases-and-tools)  
+  - "[Data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#data-life-cycle)
     - [Stages of the data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#stages-of-the-data-life-cycle)
   - [Variations of the data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#variations-of-the-data-life-cycle)
-    - [Six stages to the data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#six-stages-to-the-data-life-cycle)
-   
+    - [Six stages to the data life cycle](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#six-stages-to-the-data-life-cycle),,
   - [Six phases of data analysis](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#six-phases-of-data-analysis)
   - [The data analysis process and this program](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#the-data-analysis-process-and-this-program)
   - [Example of the data process](https://github.com/Forestreee/Data-Analytics/wiki/231009,11#example-of-the-data-process)
